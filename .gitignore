@@ -1,0 +1,8 @@
+#ignore files
+
+bin/
+build/
+*.class
+*.tmp
+
+.getignore
