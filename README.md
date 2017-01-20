@@ -10,4 +10,8 @@ Git Commands
 
 * 'git status' - compare working directory with repository
 
+* 'git add [name of files]' - select file to commit .
+
+* 'git commit -m "something to say "' - commit to repository .
+
 Poorin Pichayamongkol
